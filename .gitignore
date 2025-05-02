@@ -1,0 +1,4 @@
+*.json  # Ignore all JSON files
+*key*.json  # Specifically target key files
+.env  # Ignore .env files
+**/*credentials*  # Ignore any credentials files
