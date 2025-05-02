@@ -1,0 +1,16 @@
+flask>=2.2.0
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+numpy>=1.22.0
+matplotlib>=3.5.0
+google-cloud-bigquery>=3.3.0
+pyarrow>=10.0.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+[dev]
+pytest>=7.0.0
+black>=22.0.0
+isort>=5.10.0
+mypy>=1.0.0
+flake8>=5.0.0
